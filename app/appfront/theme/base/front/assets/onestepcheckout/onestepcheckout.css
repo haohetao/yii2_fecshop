@@ -34,7 +34,7 @@
 
     .onestepcheckout-button:hover                          { background-color: #111; color: #fff; }
     .onestepcheckout-button:active                         { top: 1px; }
-    .small.onestepcheckout-button, .small.onestepcheckout-button:visited          { font-size: 11px; padding: ; }
+    .small.onestepcheckout-button, .small.onestepcheckout-button:visited          { font-size: 11px; padding:0 ; }
     .onestepcheckout-button, .onestepcheckout-button:visited,
     .medium.onestepcheckout-button, .medium.onestepcheckout-button:visited        { font-size: 13px; font-weight: bold; line-height: 1; text-shadow: 0 -1px 1px rgba(0,0,0,0.25); }
     .large.onestepcheckout-button, .large.onestepcheckout-button:visited          { font-size: 16px; padding: 8px 30px 9px; }
